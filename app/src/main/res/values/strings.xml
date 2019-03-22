@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SimpleMVPApplication</string>
+    <string name="try_luck_button">Try your luck</string>
+</resources>
